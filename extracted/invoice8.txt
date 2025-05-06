@@ -1,0 +1,39 @@
+Invoice
+
+Sender Your Company Name
+Address
+City, Postcode
+Tel: +4470000000000
+
+Recipient Customer's Company Name
+Address
+City, Posteode
+Tel: +4470000000000
+
+Invoice Number Client Number Client Reference Invoice Date Due Date
+12345 Client_1 ‘00342 29.05.2021 29.06.2021
+
+Additional information
+To add a new line to the table below, hover your cursor over the area bottom left of “example work’ and click on
+the plus icon which appears,
+
+Description Qty Unit Price VAT Total
+
+Example product 5 pos £60 20% £60 £960.00
+
+Example work 10 h £105 20% £210 £ 1260.00
+
+Example work 10 h £105 20% £210 £ 1260.00
+
+Example work 10 h £105 20% £210 £ 1260.00
+‘Sub Total £3,312
+Total VAT £928
+Total Due £4,140
+
+Rogistored Address Ccontaet information Payment Dotalls
+
+‘Adress Line 1 contact Nome Bank Name Barclays PLC
+
+‘Adéress Line2 Phone: 1234 567 690 Sor-Code 0000.00
+
+Cty, Postcode Ema rst last@company couk ‘Account No 123486789,

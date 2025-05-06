@@ -1,0 +1,82 @@
+Bill To
+
+Scott, Melba R.
+2476 Blackwell Street
+Fairbanks
+
+99701 Colorado
+USA
+
+Ship To
+
+2476 Blackwell Street
+Fairbanks
+
+99701 Colorado
+USA
+
+Zylker Thread & Weave
+14B, Northern Street
+
+Greater South Avenue
+
+New York New York 10001
+
+INVOICE
+
+U.S.A
+
+Invoice#
+
+INV-000002
+
+18 May 2023
+
+Due on Receipt
+
+18 May 2023
+
+= Item & Description | ary | Rate Amount
+
+Pepe Jeans
+Tapered fit Mid rise - Blue
+
+2 Boys Shirt
+Size - 36, Mosaic design
+3 Men Shirt
+
+Size - 42, Striped Blue
+
+Thanks for your business.
+
+Terms & Conditions
+
+Full payment is due upon receipt of this invoice.
+applicable laws.
+
+1.00 24.99
+pcs
+1.00 16.99
+pcs
+1.00 19.99
+pcs
+Sub Total
+Tax Rate
+Total
+
+Balance Due
+
+. Late payments may incur additional charges or interest as per the
+
+24.99
+
+16.99
+
+19.99
+
+61.97
+5.00%
+
+$65.06
+
+$65.06

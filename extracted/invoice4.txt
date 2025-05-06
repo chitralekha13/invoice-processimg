@@ -1,0 +1,42 @@
+Bavicer Invoice
+
+Zylker.io salance Due
+147 Foxrun St.
+Gaithersburg, MD 20877 $0.00
+Invoice Date: 30 Oct 2020
+Terms : Due on Receipt
+Due Date : 30 Oct 2020
+Bill To
+John Lewis Sales person: James Connor
+57 York St.
+Payment Mode : Credit Card
+
+Fort Mill, SC 29708
+
+1 2ylker.io (MarketPro) - Enterprise Plan 1.00 139.00 139.00
+CCharges for this duration (from 30-October-2020 to 29-Novernber-2020)
+
+2 2ylker.io (Productivity Suite) - Standard Plan 1.00 79.00 79.00
+Charges for this duration (from 30-October-2020 to 29-November-2020)
+
+~— subrowl == (800
+
+Sales Tax (7.25%) 15.81
+
+Total $233.81
+
+Payment Made (0233.81
+
+Balance Due $0.00
+
+Notes
+
+‘Thanks for your business.
+
+Terms & Conditions
+
+Full or partial refund shall be provided if the subscription is cancelled within 7 days from the invoice date. Ifyou have any questions on our
+payment policies, please contact payments@zyiker.io
+
+Sample Invoice
+

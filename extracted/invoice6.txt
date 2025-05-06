@@ -1,0 +1,46 @@
+Ae INV24.COM
+
+ONLINE INVOICING SOFTWARE
+
+Bill To:
+
+Company example Inc
+16 Pineknoll Ave.
+
+Bronx, NY 1463
+
+Reg nr: 0987654321
+TAX nr: EN0987654321
+
+Description
+
+my product
+my service
+
+My company LLC
+Reg nr: 0987654321
+TAX nr: EN564738210
+
+Invoice #1-A
+
+Qty
+
+85 Sheffield Lane
+New York, NY 1137
+Phone: 0123456789
+
+Invoice Date: 07/24/2023
+Due Date: 08/07/2023
+
+Unit Price Subtotal
+50.00 100.00
+100.00 300.00
+
+Subtotal: $400.00
+TAX(8.5%): $34.00
+Total: $434.00
+
+My bank name
+EN1234567890
+SWIFT / ABA: BAMA12345
+PayPal: paypal@email.com
